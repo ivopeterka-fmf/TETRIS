@@ -1,3 +1,0 @@
-matevzek: 3
-ambroz: 13
-mirjana: 2
